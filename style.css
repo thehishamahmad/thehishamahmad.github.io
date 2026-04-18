@@ -69,10 +69,16 @@ img {
   font-weight: 800;
   letter-spacing: 0.3px;
   font-size: 1rem;
+  color: var(--text);
+  text-decoration: none;
 }
 
 .brand span {
   color: var(--brand);
+}
+
+.brand:hover {
+  opacity: 0.95;
 }
 
 .nav-links {
