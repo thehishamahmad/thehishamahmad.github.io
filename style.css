@@ -623,6 +623,23 @@ section {
   font-size: 0.95rem;
 }
 
+.list-row > div {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.list-row > div strong {
+  line-height: 1.35;
+}
+
+.list-row span {
+  display: block;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
 /* =========================
    CONTACT
 ========================= */
