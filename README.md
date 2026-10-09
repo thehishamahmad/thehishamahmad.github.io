@@ -1,41 +1,49 @@
 ## hisham-ahmad.com
 
-Official personal portfolio website of **Hisham Ahmad**, showcasing professional experience, cloud architecture expertise, technical projects, and enterprise solution design.
+Personal portfolio website of **Mohd Hisham Ahmad**, Senior Infrastructure Specialist at **Logicalis Malaysia**. It presents my experience in enterprise infrastructure, cloud architecture, resilience, technical presales and customer solution design.
 
-🌐 https://www.hisham-ahmad.com
+🌐 [Visit the portfolio](https://www.hisham-ahmad.com/)
 
 ## Purpose
 
-This repository serves as the primary source code for my personal portfolio website.
+This repository contains the source code for my personal portfolio. The website brings together my professional experience, technical capabilities and interactive advisory tools for recruiters, business partners and customers.
 
-It is maintained as a central platform to showcase my professional experience, technical expertise, and projects in cloud architecture, infrastructure modernization, and solution design.
-
-The portfolio is intended for recruiters, hiring managers, business partners, and customers who wish to learn more about my work and technical capabilities.
+The design and content reflect how I work with customers: understanding business and technical requirements, shaping practical solutions, and explaining the recommended approach through proposals, architecture discussions, workshops and presentations.
 
 ## Professional Focus
 
-My areas of expertise include:
+- Enterprise infrastructure: servers, storage and virtualization
+- Data protection, backup and disaster recovery
+- On-premises and hybrid solution architecture
+- Cloud architecture and migration
+- Customer discovery and solution design
+- Technical proposals, Bills of Materials and RFP responses
+- Customer workshops, technical presentations and technology events
 
-- Google Cloud Platform (GCP)
-- Cloud Solution Architecture
-- Infrastructure Modernization
-- Hybrid & Multi-Cloud Solutions
-- Presales Consulting
-- Technical Proposal Design
-- Cloud Migration & Modernization
-- Enterprise Infrastructure Design
+## Experience
+
+- **Senior Infrastructure Specialist — Logicalis Malaysia** (Sep 2026–Present): Supporting enterprise infrastructure solution design and presales across on-premises, hybrid and modern data centre environments.
+- **Senior Consultant, Cloud Technology Specialist — Awantec Systems Sdn Bhd** (Jul 2024–Jul 2026): Google Cloud consulting, presales, architecture and customer enablement.
+
+Earlier roles and full career details are available on the [portfolio website](https://www.hisham-ahmad.com/#experience).
+
+## Interactive Advisory Tools
+
+The portfolio includes practical tools for infrastructure assessment, cloud readiness, backup and disaster recovery sizing, application modernization, infrastructure efficiency, and cloud solution design. Explore the tools on the [portfolio website](https://www.hisham-ahmad.com/#tools).
+
+For independent learning and experiments, visit [Hisham Labs](https://hishamlabs.com/).
 
 ## Author
 
-**Hisham Ahmad**  
-Google Cloud Platform Solution Architect  
+**Mohd Hisham Ahmad**  
+Senior Infrastructure Specialist, Logicalis Malaysia  
 Malaysia
 
-🌐 Website: https://www.hisham-ahmad.com
+🌐 [Portfolio](https://www.hisham-ahmad.com/) · [Hisham Labs](https://hishamlabs.com/)
 
-## Connect with Me
+## Connect
 
-If you would like to discuss cloud architecture, infrastructure modernization, or potential collaboration opportunities, feel free to reach out through my portfolio website.
+For professional enquiries or collaboration, use the contact details on my [portfolio website](https://www.hisham-ahmad.com/#contact).
 
 ---
 
